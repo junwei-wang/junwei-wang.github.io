@@ -25,9 +25,9 @@ Before that, I received my master degrees in computer science from the Universit
 Before that, I received my bachelor degree in software engineering from Shandong University in 2012.
 
 
-## PhD Thesis
+<!-- ## PhD Thesis -->
 
-In 2020, I obtained my Ph.D. degrees in cryptography 
+<!-- In 2020, I obtained my Ph.D. degrees in cryptography  -->
 
 ## Publications
 
@@ -37,7 +37,7 @@ In 2020, I obtained my Ph.D. degrees in cryptography 
 4. A.Bogdanov, M.Rivain, P.S.Vejre, **J.Wang**: Higher-Order DCA against Standard Side-Channel Countermeasures. COSADE 2019: 118-141
 5. **J.Wang**, P.K.Vadnala, J.Großschädl, Q.Xu: Higher-Order Masking in Practice: A Vector Implementation of Masked AES for ARM NEON. CT-RSA 2015: 181-198
 
-## Featured Presentations
+<!-- ## Featured Presentations -->
 
 ## Languages
 

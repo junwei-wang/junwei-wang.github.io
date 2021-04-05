@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-* Email: [jwang@mailorg.com](mailto:jwang@mailorg.com)
+* Email: [jwang@mailorg.com](mailto:jwang@mailorg.com) / [me@jwa.ng](mailto:me@jwa.ng)
 * Phone: [+33 (0) 7 69 39 52 85](tel:+33-769395285)
 
 ---
