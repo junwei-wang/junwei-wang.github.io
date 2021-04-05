@@ -1,0 +1,58 @@
++++
+title = "Junwei Wang - Thesis"
++++
+
+# Thesis
+
+The defense of my thesis, entitled **On the practical security of white-box cryptography**, took place in June 24, 2020.
+Here are my thesis [manuscript](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/267b6c31-196e-44bc-9196-6379f2114108/manuscript-20200918.pdf) and [presentation slides](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed651733-c0e3-4edb-97f7-035e6b013be1/2020-phd-defense.pdf).
+
+The recording of my defense is available on YouTube:
+
+{{< youtube cRsO9N8SuN4 >}}
+
+## Title
+
+On the Practical Security of White-Box Cryptography
+
+## Jury Composition
+
+- Pr. Alex BIRYUKOV, University of Luxembourg, Examiner
+- Pr. Jean-Sébastien CORON, University of Luxembourg, Co-supervisor
+- Pr. Pierre-Alain FOUQUE, Université Rennes 1, Reviewer
+- Pr. Sihem MESNAGER, Unviersité Paris 8, Co-supervisor
+- Pr. Bart PRENEEL, KU Leuven, Reviewer
+- Dr. Matthieu RIVAIN, CryptoExperts, Advisor
+- Pr. Wolfgang SCHMID, Unviersité Paris 8, President
+- Pr. François-Xavier STANDAERT, Université catholique de Louvain, Examiner
+
+## Abstract
+
+Cryptography studies how to secure communications and information. The security of a cryptosystem depends on the secrecy of the underlying key. White-box cryptography explores methods to hide a cryptographic key into some software deployed in the real world.
+
+Classical cryptography only assumes that the adversary accesses the target cryptographic primitive in a black-box manner in which she can only observe or manipulate the input and output of the primitive, but cannot know or tamper with its internal details. The gray-box model further allows an adversary to exploit key-dependent sensitive information leaked from the execution of physical implementations. All sorts of side-channel attacks exploit some physical information leakage, such as the power consumption of the device. The white-box model considers the worst-case scenario in which the adversary has complete control over the software and its execution environment. The goal of white-box cryptography is to securely implement a cryptographic primitive against such a powerful adversary. Although the scientific community has proposed some candidate solutions to build white-box cryptography, all have proven ineffective. Consequently, this problem has remained open for almost two decades since the concept was introduced.
+
+The continuous growth in market demand and the emerging potential applications have driven the industry to deploy secretly designed proprietary solutions. Although this paradigm of achieving security through obscurity contradicts the widely accepted Kerckhoffs' principle in cryptography, this is currently the only option for white-box cryptography. Security experts have reported how gray-box attacks could be used to extract keys from several publicly available white-box implementations. In a gray-box attack, the adversary adapts side-channel analysis techniques to the white-box context, i.e., to target computation traces made of noise-free runtime information instead of the noisy physical leakage. Gray-box attacks are generic since they do not require any a priori knowledge of the implementation and hence avoid costly reverse engineering. Some non-publicly scrutinized industrial white-box schemes in the market are believed to be under the threat of gray-box attacks.
+
+This thesis focuses on the analysis and improvement of gray-box attacks and the associated countermeasures for white-box cryptography. We first provide an in-depth analysis of why gray-box attacks are capable of breaking the classical white-box design which is based on table encodings. Next, we introduce a new gray-box attack named linear decoding analysis and show that linearly encoding sensitive information is insufficient to protect the cryptographic software. Afterward, we describe how to combine state-of-the-art countermeasures to resist gray-box attacks and comprehensively elaborate on the (in)effectiveness of these combined countermeasures in terms of computation complexity. Finally, we introduce a new attack technique that exploits the data-dependency of the targeted implementation to substantially lower the complexity of the existing gray-box attacks on white-box cryptography. In addition to the theoretical analyses and new attack techniques introduced in this thesis, we report some attack experiments against practical white-box implementations. In particular, we could break the winning implementations of two consecutive editions of the well-known WhibOx white-box cryptography competition.
+
+## Résumé (Abstract in French)
+
+La cryptographie est la science de la protection des communications et des données. La sécurité d'un cryptosystème dépend du secret de la clé sous-jacente. La cryptographie en boîte blanche explore les méthodes permettant de cacher une clé dans un logiciel cryptographique déployé dans le monde réel.
+
+La cryptographie classique suppose que l'adversaire accède à la primitive cryptographique ciblée en boîte noire. Cela signifie qu'elle ne peut qu'observer et manipuler les entrées et les sorties de la primitive, mais ne peut pas connaître ou altérer son état interne. Le modèle en boîte grise permet en outre à un adversaire d'observer des informations sensibles qui sont divulguées lors de l'exécution d'une implémentation de la primitive. Toutes sortes d'attaques par canaux auxiliaires exploitent certaines fuites d'informations physiques, telles que la consommation électrique de l'appareil. Le modèle en boîte blanche considère le scénario le plus défavorable dans lequel l'adversaire a un contrôle total sur le logiciel cryptographique et sur son environnement d'exécution. Le rôle de la cryptographie en boîte blanche est d'implémenter une primitive cryptographique de façon à protéger la clé secrète contre un tel adversaire. Bien que la communauté scientifique ait tenté à plusieurs reprises de solutionner ce problème, ces tentatives se sont toutes révélées inadéquates. Par conséquent, la construction d'une solution de cryptographie en boîte blanche est resté un problème ouvert depuis l'introduction du concept il y a deux décennies.
+
+L'émergence d'applications avec de fortes contraintes de sécurité logicielle a poussé l'industrie à développer des solutions propriétaires dont la sécurité repose (en partie) sur des secrets de conception. Bien que ce paradigme de sécurité par l'obscurité contredise le principe de Kerckhoffs largement admis en cryptographie, c'est actuellement la seule option s'offrant à l'industrie pour répondre au besoin de cryptographie en boîte blanche. Des experts en sécurité ont récemment démontré comment certaines attaques en boîtes grise pouvaient être utilisées pour extraire les clés de plusieurs implémentations en boîte blanche accessibles publiquement. Dans une attaque en boîte grise, l'adversaire adapte des techniques d'analyse par canaux auxiliaires au contexte boîte blanche, en replaçant la fuite physique par des traces de calcul faites des valeurs intermédiaires non-bruitées observées lors de l'exécution. Les attaques en boîte grise sont génériques car elles ne nécessitent aucune connaissance a priori de l'implémentation et évitent ainsi la nécessité pour l'attaquant de recourir à une rétro-ingénierie coûteuse. Il semble que certaines solutions de cryptographie en boîte blanche actuellement déployée et n'ayant pas fait l'objet d'un examen public soient menacées par ce type d'attaques en boîte grise.
+
+Cette thèse se concentre sur l'analyse et l'amélioration des attaques en boîte grise et des contre-mesures associées pour la cryptographie en boîte blanche. Nous présentons tout d'abord une analyse approfondie des raisons pour lesquelles les attaques en boîte grise basiques sont capables de casser la technique classique de cryptographie en boîte blanche basée sur les encodages
+de tables. Nous proposons également de nouvelles techniques d'attaque en boîte grise significativement plus efficace contre ce type d'encodages. Nous introduisons ensuite une nouvelle attaque en boîte grise appelée analyse par décodage linéaire qui permet de déjouer toute méthode de protection basée sur un encodage linéaire des variables internes au calcul. Par la suite, nous étudions la combinaison de différentes contre-mesures pour résister aux attaques en boîte grise et analysons en détail la complexité d'attaques avancées contre ces contre-mesures combinées. Nous introduisons enfin une nouvelle technique d'attaque qui exploite le graphe de calcul de l'implémentation ciblée pour réduire considérablement la complexité des attaques en boîte grise sur la cryptographie en boîte blanche. Outre les analyses théoriques et nouvelles techniques d'attaque introduites dans cette thèse, nous rapportons plusieurs expériences d'attaque pratique contre divers implémentations en boîte blanche. Nous démontrons notamment comment nous avons pu casser les implémentations gagnantes des deux éditions consécutives de la compétition WhibOx.
+
+## 摘要 (Abstract in Chinese)
+
+密码学是一门研究保护数据和通信安全的科学。一个密码系统的安全性取决于其密钥的保密性。白盒密码学探索在现实世界中部署的软件中隐藏密钥的方法。
+
+经典密码学仅假定敌手以黑盒的方式访问被研究的密码学原语, 在这种方式中，她只能观察或操作原语的输入和输出，而无法知道或篡改其内部细节。灰盒模型进一步允许敌手利用物理实现执行过程中泄露的与密钥相关的敏感信息。各种侧信道攻击都是利用一些物理信息泄露，比如设备的功耗。白盒模型考虑的是最坏的情况，即敌手完全控制了软件及其执行环境。白盒密码学的目标即是在敌手拥有上述强大能力的情况下，给出密码学原语的安全软件实现。尽管学术界提出了一些构建白盒密码学的候选方案，但事实证明这些方案都无效。因此，自概念提出以来，这个开放问题持续存在了近二十年。
+
+白盒密码市场需求的持续增长和新兴的潜在应用促使工业界采用秘密设计的专有解决方案。尽管这种通过模糊来实现安全性的范例与密码学中被广泛接受的Kerckhoffs原则相悖，但这是在当前困境中的无奈之举。安全专家报道了如何使用灰盒攻击从几种公开的白盒实现中提取密钥。在灰盒攻击中，敌手将侧信道分析技术应用到白盒密码学中。她的研究对象是从软件运行时收集不带任何噪音计算数据而非带有噪声的物理泄漏。灰盒攻击是一种通用攻击，因为它们不需要关于攻击对象的任何先验知识，从而避免了代价高昂的逆向工程。市场上一些未经公开审阅的工业白盒计划被认为正受到灰盒攻击的威胁。
+
+本论文主要研究针对白盒密码学进行的灰盒攻击的分析与改进以及相关对策。首先，我们深入分析了为什么灰盒攻击能够打破经典的基于编码表的白盒设计。接下来，我们介绍了一种新的称为线性解码分析的灰盒攻击，并阐释了仅通过对敏感信息进行线性编码的方式来保护软件中的密钥是不足够的。随后，我们将描述如何通过组合最新的对策来抵抗灰盒攻击，并从计算复杂性的角度全面阐述这些组合对策的有效性和无效性。最后，我们介绍了一种新的攻击技术，该技术利用目标实现的数据依赖性来显著降低现有灰盒攻击应用在白盒密码学的复杂性。本论文除了介绍的理论分析和新的攻击技术外，还报告了一些针对实际白盒实现的攻击实验。特别的是，我们连续两届打破了著名的WhibOx白盒密码学竞赛中的获胜实现。

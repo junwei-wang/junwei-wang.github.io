@@ -17,16 +17,14 @@ I co-organized the [2nd edition](https://whibox-contest.github.io/2019/), and is
 
 ## Education
 
-I obtained my Ph.D. degree in cryptography in 2020 from the University of Luxembourg, and from the University Paris 8 under the supervision of [Jean-Sébastien CORON](http://www.crypto-uni.lu/jscoron/index.html), [Sihem MESNAGER](http://www.math.univ-paris13.fr/~mesnager/), [Pascal PAILLIER](https://scholar.google.com/citations?user=xwzhjfoAAAAJ&hl=en), and [Matthieu RIVAIN](http://www.matthieurivain.com/). 
+I obtained my Ph.D. degree in cryptography in 2020 from the [University of Luxembourg](https://uni.lu), and from the [University Paris 8](https://www.univ-paris8.fr/) under the supervision of [Jean-Sébastien CORON](http://www.crypto-uni.lu/jscoron/index.html), [Sihem MESNAGER](http://www.math.univ-paris13.fr/~mesnager/), [Pascal PAILLIER](https://scholar.google.com/citations?user=xwzhjfoAAAAJ&hl=en), and [Matthieu RIVAIN](http://www.matthieurivain.com/). 
+The defense of my thesis entitled **On the practical security of white-box cryptography**, took place in June 24, 2020.
+Please find more information [jwa.ng/thesis](/thesis).
 
-Before that, I received my master degrees in computer science from the University of Luxembourg and Shandong University in 2015.
+Before that, I received my master degrees in computer science from [the University of Luxembourg](https://uni.lu) and [Shandong University](https://en.sdu.edu.cn/) in 2015.
 
-Before that, I received my bachelor degree in software engineering from Shandong University in 2012.
+Before that, I received my bachelor degree in software engineering from [Shandong University](https://en.sdu.edu.cn/) in 2012.
 
-
-<!-- ## PhD Thesis -->
-
-<!-- In 2020, I obtained my Ph.D. degrees in cryptography  -->
 
 ## Publications
 
