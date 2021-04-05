@@ -15,7 +15,6 @@ I am a member of [CHES 2021 artifact review committee](https://ches.iacr.org/202
 
 I co-organized the [2nd edition](https://whibox-contest.github.io/2019/), and is co-organizing the [3rd edition](https://whibox-contest.github.io/2021/) of the [WhibOx](https://www.cyber-crypt.com/whibox-contest/) contest, which are the CTF events of [CHES 2019](https://ches.iacr.org/2019/) and [CHES 2021](https://ches.iacr.org/2019/).
 
-
 ## Education
 
 I obtained my Ph.D. degree in cryptography in 2020 from the University of Luxembourg, and from the University Paris 8 under the supervision of [Jean-Sébastien CORON](http://www.crypto-uni.lu/jscoron/index.html), [Sihem MESNAGER](http://www.math.univ-paris13.fr/~mesnager/), [Pascal PAILLIER](https://scholar.google.com/citations?user=xwzhjfoAAAAJ&hl=en), and [Matthieu RIVAIN](http://www.matthieurivain.com/). 
@@ -44,3 +43,13 @@ Before that, I received my bachelor degree in software engineering from Shandong
 - Chinese (mother tongue)
 - English (work proficiency)
 - French (A2 - B1)
+
+---
+
+## Social Accounts
+
+- <i class="ai ai-google-scholar"></i> [Junwei Wang](https://scholar.google.com/citations?user=GNG2enMAAAAJ)
+- <i class="ai ai-dblp"></i> [Junwei Wang](https://dblp.uni-trier.de/pid/81/4816-3.html)
+- <i class="bi-github" role="img"></i> [junwei-wang](https://github.com/junwei-wang)
+- <i class="bi-twitter" role="img"></i> [junwei_wang](https://twitter.com/junwei_wang)
+- <i class="bi-linkedin" role="img"></i> [junweiwang](https://linkedin.com/in/junweiwang)
