@@ -13,7 +13,7 @@ Before that, I was a senior software engineer at [Baidu](https://www.baidu.com) 
 
 I am a member of [CHES 2021 artifact review committee](https://ches.iacr.org/2021/artifacts.php). 
 
-I co-organized the [2nd edition](https://whibox-contest.github.io/2019/), and is co-organizing the [3rd edition](https://whibox-contest.github.io/2021/) of the [WhibOx](https://www.cyber-crypt.com/whibox-contest/) contest, which are the CTF events of [CHES 2019](https://ches.iacr.org/2019/) and [CHES 2021](https://ches.iacr.org/2019/).
+I co-organized the [2nd edition](https://whibox-contest.github.io/2019/), and is co-organizing the [3rd edition](https://whibox-contest.github.io/2021/) of the [WhibOx](https://whibox.github.io/) contest, which are the CTF events of [CHES 2019](https://ches.iacr.org/2019/) and [CHES 2021](https://ches.iacr.org/2019/).
 
 ## Education
 
