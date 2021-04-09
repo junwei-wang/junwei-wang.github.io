@@ -3,18 +3,22 @@ baseURL = "https://jwa.ng/"
 theme = "researcher"
 languageCode = "en-us"
 enableEmoji = true
-math = true         
-googleAnalytics = ""  # add your tracking id
+math = true
 
 [params]
   author = "Junwei Wang"
   description = "Test"
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  favicon = "favicon.ico"
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Junwei Wang"
     url = "https://github.com/junwei-wang"
-  [params.style]  # appearance options (can be omitted)
+    github = "junwei-wang"
+    twitter = "junwei_wang"
+    linkedin = "junweiwang"
+    googlescholar = "GNG2enMAAAAJ"
+    dblp = "https://dblp.uni-trier.de/pid/81/4816-3.html"
+  [params.style]
     fontFamily = "Inconsolata"
     pageWidth = "750px"
     avatarSize = "90px"
@@ -29,6 +33,14 @@ googleAnalytics = ""  # add your tracking id
     name = "About"
     url = "/"
     weight = 1
+  [[menu.main]]
+    name = "Thesis"
+    url = "/thesis/"
+    weight = 2
+  # [[menu.main]]
+  #   name = "Talks"
+  #   url = "/talks/"
+  #   weight = 3
   # [[menu.main]]
   #   name = "Resume"
   #   url = "/resume.pdf"
@@ -38,8 +50,8 @@ googleAnalytics = ""  # add your tracking id
   #   weight = 2
   [[menu.main]]
     name = "Contact"
-    url = "/contact"
-    weight = 3
+    url = "/contact/"
+    weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files

@@ -42,12 +42,3 @@ Before that, I received my bachelor degree in software engineering from [Shandon
 - English (work proficiency)
 - French (A2 - B1)
 
----
-
-## Social Accounts
-
-- <i class="ai ai-google-scholar"></i> [Junwei Wang](https://scholar.google.com/citations?user=GNG2enMAAAAJ)
-- <i class="ai ai-dblp"></i> [Junwei Wang](https://dblp.uni-trier.de/pid/81/4816-3.html)
-- <i class="bi-github" role="img"></i> [junwei-wang](https://github.com/junwei-wang)
-- <i class="bi-twitter" role="img"></i> [junwei_wang](https://twitter.com/junwei_wang)
-- <i class="bi-linkedin" role="img"></i> [junweiwang](https://linkedin.com/in/junweiwang)

@@ -1,0 +1,33 @@
+<div id="footer" class="mb-5">
+  {{ with .Site.Params.footer }}
+  <hr>
+  <div class="container text-center">
+    <a href="{{ .url | absURL }}"><small>{{ .text }}</small></a>
+
+    <small><i class="bi bi-dot"></i></small>
+
+    {{ if isset . "github" }}
+    <a href="https://github.com/{{ .github }}"><small><i class="bi-github" role="img"></i></small></a>
+    {{ end }}
+
+    {{ if isset . "linkedin" }}
+    <a href="https://linkedin.com/in/{{ .linkedin }}"><small><i class="bi-linkedin" role="img"></i></small></a>
+    {{ end }}
+
+    {{ if isset . "twitter" }}
+    <a href="https://twitter.com/{{ .twitter }}"><small><i class="bi-twitter" role="img"></i></small></a>
+    {{ end }}
+
+    <small><i class="bi bi-dot"></i></small>
+    <!-- <small><i class="bi bi-three-dots-vertical"></i></small> -->
+
+    {{ if isset . "github" }}
+    <a href="https://scholar.google.com/citations?user={{ .googlescholar }}"><small><i class="ai ai-google-scholar" role="img"></i></small></a>
+    {{ end }}
+
+    {{ if isset . "dblp" }}
+    <a href="{{ .dblp }}"><small><i class="ai ai-dblp" role="img"></i></small></a>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
