@@ -36,6 +36,14 @@
     &nbsp;
     <a href="{{ .dblp }}"><small><i class="ai ai-dblp" role="img"></i></small></a>
     {{ end }}
+
+    &nbsp;
+    <small><i class="bi bi-dot"></i></small>
+
+    {{ if .gpg }}
+    &nbsp;
+    <a href="/{{ .gpg }}.asc"><small><i class="bi-lock-fill" role="img"></i></small></a>
+    {{ end }}
   </div>
   {{ end }}
 </div>

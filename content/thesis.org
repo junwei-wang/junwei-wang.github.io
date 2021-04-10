@@ -2,31 +2,31 @@
 title = "Junwei Wang - Thesis"
 +++
 
-# Thesis
+* Thesis
 
 The defense of my thesis, entitled **On the practical security of white-box cryptography**, took place in June 24, 2020.
-Here are my thesis [manuscript](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/267b6c31-196e-44bc-9196-6379f2114108/manuscript-20200918.pdf) and [presentation slides](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed651733-c0e3-4edb-97f7-035e6b013be1/2020-phd-defense.pdf).
+Here are my thesis [[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/267b6c31-196e-44bc-9196-6379f2114108/manuscript-20200918.pdf][manuscript]] and [[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed651733-c0e3-4edb-97f7-035e6b013be1/2020-phd-defense.pdf][presentation slides]].
 
 The recording of my defense is available on YouTube:
 
 {{< youtube cRsO9N8SuN4 >}}
 
-## Title
+** Title
 
-On the Practical Security of White-Box Cryptography
+*On the Practical Security of White-Box Cryptography*
 
-## Jury Composition
+** Jury Composition
 
-- Pr. Alex BIRYUKOV, University of Luxembourg, Examiner
-- Pr. Jean-Sébastien CORON, University of Luxembourg, Co-supervisor
-- Pr. Pierre-Alain FOUQUE, Université Rennes 1, Reviewer
-- Pr. Sihem MESNAGER, Unviersité Paris 8, Co-supervisor
-- Pr. Bart PRENEEL, KU Leuven, Reviewer
-- Dr. Matthieu RIVAIN, CryptoExperts, Advisor
-- Pr. Wolfgang SCHMID, Unviersité Paris 8, President
-- Pr. François-Xavier STANDAERT, Université catholique de Louvain, Examiner
+- Pr. [[https://scholar.google.com/citations?user=tP5rH0wAAAAJ&hl=en][Alex BIRYUKOV]], University of Luxembourg, Examiner
+- Pr. [[https://scholar.google.com/citations?user=AeXfSUsAAAAJ&hl=en][Jean-Sébastien CORON]], University of Luxembourg, Co-supervisor
+- Pr. [[https://scholar.google.com/citations?user=wW2eXngAAAAJ&hl=en][Pierre-Alain FOUQUE]], Université Rennes 1, Reviewer
+- Pr. [[https://scholar.google.fr/citations?user=-mE9ov0AAAAJ&hl=en][Sihem MESNAGER]], Unviersité Paris 8, Co-supervisor
+- Pr. [[https://scholar.google.com/citations?user=omio-RsAAAAJ&hl=en][Bart PRENEEL]], KU Leuven, Reviewer
+- Dr. [[https://scholar.google.fr/citations?user=9sCtc54AAAAJ&hl=en][Matthieu RIVAIN]], CryptoExperts, Advisor
+- Pr. [[https://scholar.google.fr/citations?user=8Nwc_vsAAAAJ&hl=de][Wolfgang SCHMID]], Unviersité Paris 8, President
+- Pr. [[https://scholar.google.com/citations?user=JvBXO48AAAAJ&hl=en][François-Xavier STANDAERT]], Université catholique de Louvain, Examiner
 
-## Abstract
+** Abstract
 
 Cryptography studies how to secure communications and information. The security of a cryptosystem depends on the secrecy of the underlying key. White-box cryptography explores methods to hide a cryptographic key into some software deployed in the real world.
 
@@ -36,7 +36,7 @@ The continuous growth in market demand and the emerging potential applications h
 
 This thesis focuses on the analysis and improvement of gray-box attacks and the associated countermeasures for white-box cryptography. We first provide an in-depth analysis of why gray-box attacks are capable of breaking the classical white-box design which is based on table encodings. Next, we introduce a new gray-box attack named linear decoding analysis and show that linearly encoding sensitive information is insufficient to protect the cryptographic software. Afterward, we describe how to combine state-of-the-art countermeasures to resist gray-box attacks and comprehensively elaborate on the (in)effectiveness of these combined countermeasures in terms of computation complexity. Finally, we introduce a new attack technique that exploits the data-dependency of the targeted implementation to substantially lower the complexity of the existing gray-box attacks on white-box cryptography. In addition to the theoretical analyses and new attack techniques introduced in this thesis, we report some attack experiments against practical white-box implementations. In particular, we could break the winning implementations of two consecutive editions of the well-known WhibOx white-box cryptography competition.
 
-## Résumé (Abstract in French)
+** Résumé (Abstract in French)
 
 La cryptographie est la science de la protection des communications et des données. La sécurité d'un cryptosystème dépend du secret de la clé sous-jacente. La cryptographie en boîte blanche explore les méthodes permettant de cacher une clé dans un logiciel cryptographique déployé dans le monde réel.
 
@@ -47,7 +47,7 @@ L'émergence d'applications avec de fortes contraintes de sécurité logicielle 
 Cette thèse se concentre sur l'analyse et l'amélioration des attaques en boîte grise et des contre-mesures associées pour la cryptographie en boîte blanche. Nous présentons tout d'abord une analyse approfondie des raisons pour lesquelles les attaques en boîte grise basiques sont capables de casser la technique classique de cryptographie en boîte blanche basée sur les encodages
 de tables. Nous proposons également de nouvelles techniques d'attaque en boîte grise significativement plus efficace contre ce type d'encodages. Nous introduisons ensuite une nouvelle attaque en boîte grise appelée analyse par décodage linéaire qui permet de déjouer toute méthode de protection basée sur un encodage linéaire des variables internes au calcul. Par la suite, nous étudions la combinaison de différentes contre-mesures pour résister aux attaques en boîte grise et analysons en détail la complexité d'attaques avancées contre ces contre-mesures combinées. Nous introduisons enfin une nouvelle technique d'attaque qui exploite le graphe de calcul de l'implémentation ciblée pour réduire considérablement la complexité des attaques en boîte grise sur la cryptographie en boîte blanche. Outre les analyses théoriques et nouvelles techniques d'attaque introduites dans cette thèse, nous rapportons plusieurs expériences d'attaque pratique contre divers implémentations en boîte blanche. Nous démontrons notamment comment nous avons pu casser les implémentations gagnantes des deux éditions consécutives de la compétition WhibOx.
 
-## 摘要 (Abstract in Chinese)
+** 摘要 (Abstract in Chinese)
 
 密码学是一门研究保护数据和通信安全的科学。一个密码系统的安全性取决于其密钥的保密性。白盒密码学探索在现实世界中部署的软件中隐藏密钥的方法。
 

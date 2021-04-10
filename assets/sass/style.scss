@@ -12,10 +12,10 @@
         padding-left: 2rem;
     }
     ul {
-        list-style: inside;
-        padding-left: 2rem;
+        list-style: outside;
+        padding-left: 1rem;
     }
     .container > ul, .footnotes > ul {
-        padding-left: 0;
+        padding-left: 1rem;
     }
 }

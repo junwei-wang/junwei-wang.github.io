@@ -18,6 +18,7 @@ math = true
     linkedin = "junweiwang"
     googlescholar = "GNG2enMAAAAJ"
     dblp = "https://dblp.uni-trier.de/pid/81/4816-3.html"
+    gpg = "5E8B6264"
   [params.style]
     fontFamily = "Inconsolata"
     pageWidth = "750px"
