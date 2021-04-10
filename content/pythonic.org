@@ -1,11 +1,8 @@
-+++
-title = "Pythonic"
-+++
-
-#+title: Pythonic
-#+date: 2021-04-09T20:54:29+02:00
-#+draft: true
+#+TITLE: Pythonic
+#+DATE: 2021-04-09T20:54:29+02:00
+#+DRAFT: true
 
 1. Use Python 3; Avoid Python 2.
 2. Follow [[https://www.python.org/dev/peps/pep-0008/][PEP8]] style guide.
 3. Understand differences between =str= and =bytes=.
+4. Use [[https://realpython.com/python-string-formatting/#3-string-interpolation-f-strings-python-36][f-Strings]] (string interpolation)

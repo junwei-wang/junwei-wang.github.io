@@ -1,8 +1,8 @@
-+++
-title = "Talks"
-date = 2021-04-09T21:53:28+02:00
-+++
+#+title = "Talks"
+#+date = 2021-04-09T21:53:28+02:00
 
-#+TITLE: Featured Presentation
+empty contents
 
-* Category A
+123
+
+{{ .Site.Title }}
