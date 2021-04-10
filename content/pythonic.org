@@ -7,4 +7,5 @@ title = "Pythonic"
 #+draft: true
 
 1. Use Python 3; Avoid Python 2.
-1. Follow [[https://www.python.org/dev/peps/pep-0008/][PEP8]] style guide.
+2. Follow [[https://www.python.org/dev/peps/pep-0008/][PEP8]] style guide.
+3. Understand differences between =str= and =bytes=.

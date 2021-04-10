@@ -2,48 +2,62 @@
   {{ with .Site.Params.footer }}
   <hr>
   <div class="container text-center">
-    <span>
+    <div class="d-inline">
       <a href="{{ .url | absURL }}"><small>{{ .text }}</small></a>
-    </span>
+    </div>
 
-    &nbsp;
-    <small><i class="bi bi-dot"></i></small>
+    <div class="d-block d-sm-none"></div>
 
-    {{ if isset . "github" }}
-    &nbsp;
-    <a href="https://github.com/{{ .github }}"><small><i class="bi-github" role="img"></i></small></a>
-    {{ end }}
+    <div class="d-none d-sm-inline">
+      &nbsp;
+      <small><i class="bi bi-dot"></i></small>
+    </div>
 
-    {{ if isset . "linkedin" }}
-    &nbsp;
-    <a href="https://linkedin.com/in/{{ .linkedin }}"><small><i class="bi-linkedin" role="img"></i></small></a>
-    {{ end }}
+    <div class="d-inline">
 
-    {{ if isset . "twitter" }}
-    &nbsp;
-    <a href="https://twitter.com/{{ .twitter }}"><small><i class="bi-twitter" role="img"></i></small></a>
-    {{ end }}
+      {{ if isset . "github" }}
+      &nbsp;
+      <a href="https://github.com/{{ .github }}"><small><i class="bi-github" role="img"></i></small></a>
+      {{ end }}
 
-    &nbsp;
-    <small><i class="bi bi-dot"></i></small>
+      {{ if isset . "linkedin" }}
+      &nbsp;
+      <a href="https://linkedin.com/in/{{ .linkedin }}"><small><i class="bi-linkedin" role="img"></i></small></a>
+      {{ end }}
 
-    {{ if isset . "github" }}
-    &nbsp;
-    <a href="https://scholar.google.com/citations?user={{ .googlescholar }}"><small><i class="ai ai-google-scholar" role="img"></i></small></a>
-    {{ end }}
+      {{ if isset . "twitter" }}
+      &nbsp;
+      <a href="https://twitter.com/{{ .twitter }}"><small><i class="bi-twitter" role="img"></i></small></a>
+      {{ end }}
+    </div>
 
-    {{ if isset . "dblp" }}
-    &nbsp;
-    <a href="{{ .dblp }}"><small><i class="ai ai-dblp" role="img"></i></small></a>
-    {{ end }}
+    <div class="d-none d-sm-inline">
+      &nbsp;
+      <small><i class="bi bi-dot"></i></small>
+    </div>
 
-    &nbsp;
-    <small><i class="bi bi-dot"></i></small>
+    <div class="d-inline">
+      {{ if isset . "github" }}
+      &nbsp;
+      <a href="https://scholar.google.com/citations?user={{ .googlescholar }}"><small><i class="ai ai-google-scholar" role="img"></i></small></a>
+      {{ end }}
 
-    {{ if .gpg }}
-    &nbsp;
-    <a href="/{{ .gpg }}.asc"><small><i class="bi-lock-fill" role="img"></i></small></a>
-    {{ end }}
+      {{ if isset . "dblp" }}
+      &nbsp;
+      <a href="{{ .dblp }}"><small><i class="ai ai-dblp" role="img"></i></small></a>
+      {{ end }}
+    </div>
+
+    <div class="d-none d-sm-inline">
+      &nbsp;
+      <small><i class="bi bi-dot"></i></small>
+    </div>
+    <div class="d-inline">
+      {{ if .gpg }}
+      &nbsp;
+      <a href="/{{ .gpg }}.asc"><small><i class="bi-lock-fill" role="img"></i></small></a>
+      {{ end }}
+    </div>
   </div>
   {{ end }}
 </div>
