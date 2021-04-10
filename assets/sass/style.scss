@@ -1,0 +1,21 @@
+// overwrite the research.scss for <ol> and <ul>
+#content {
+    ol {
+        counter-reset: list;
+        list-style: decimal;
+        padding-left: 2rem;
+        & > li:before {
+            content: none;
+        }
+    }
+    .container > ol, .footnotes > ol {
+        padding-left: 2rem;
+    }
+    ul {
+        list-style: inside;
+        padding-left: 2rem;
+    }
+    .container > ul, .footnotes > ul {
+        padding-left: 0;
+    }
+}
