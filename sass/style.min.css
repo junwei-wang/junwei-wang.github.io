@@ -1,1 +1,1 @@
-#content ol{counter-reset:list;list-style:decimal;padding-left:2rem}#content ol>li:before{content:none}#content .container>ol,#content .footnotes>ol{padding-left:2rem}#content ul{list-style:inside;padding-left:2rem}#content .container>ul,#content .footnotes>ul{padding-left:0}
+#content ol{counter-reset:list;list-style:decimal;padding-left:2rem}#content ol>li:before{content:none}#content .container>ol,#content .footnotes>ol{padding-left:2rem}#content ul{list-style:outside;padding-left:1rem}#content .container>ul,#content .footnotes>ul{padding-left:1rem}
