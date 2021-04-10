@@ -7,4 +7,5 @@ Title On the Practical Security of White-Box Cryptography
 Jury Composition Pr. Alex BIRYUKOV, University of Luxembourg, Examiner
 Pr.</description></item><item><title>Pythonic</title><link>https://jwa.ng/pythonic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jwa.ng/pythonic/</guid><description>Pythonic
 Use Python 3; Avoid Python 2.
-Follow PEP8 style guide.</description></item></channel></rss>
+Follow PEP8 style guide.
+Understand differences between str and bytes.</description></item></channel></rss>
