@@ -38,4 +38,28 @@ symposiums:
     slides: /pdf/2018-rwc.pdf
     video: https://youtu.be/efrO-1wak6c
   
-  
+workshops:
+  whibox2019a:
+    title: "Call for Contribution: A New White-Box Analytic Tool"
+    date: 2019-05-19
+    venue: WhibOx workshop 2019
+    city: Darmstadt
+    slides: /pdf/2019-whibox-wyverse.pdf
+  whibox2019b:
+    title: Differential Computation Analysis against Internally-Encoded White-Box Implementations
+    date: 2019-05-18
+    venue: WhibOx workshop 2019
+    city: Darmstadt
+    slides: /pdf/2019-whibox-dca.pdf
+  journee:
+    title: Recent Progress on White-Box Attacks
+    date: 2018-12-13
+    venue: Journée "Protection du code et des données, obfuscation & whitebox cryptography" 
+    city: Paris Saclay
+    slides: /pdf/2018-paris-saclay.pdf
+  panda2018:
+    title: White-box cryptography
+    date: 2018-10-16
+    venue: Panda 2018
+    city: Beijing
+    slides: /pdf/2018-panda.pdf

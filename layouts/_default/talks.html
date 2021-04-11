@@ -13,16 +13,29 @@
       </ul>
     </div>
   </div>
-</div>
 
-<hr>
+  <hr>
 
-<div class="container">
   <div class="row">
     <h3>Symposiums</h3>
     <div class="col-12">
       <ul>
-        {{ range .Site.Data.talks.symposiums }}
+        {{ range sort .Site.Data.talks.symposiums ".date" "desc" }}
+        <li>
+          {{ partial "talk.html" . }}
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <h3>Workshops</h3>
+    <div class="col-12">
+      <ul>
+        {{ range sort .Site.Data.talks.workshops ".date" "desc" }}
         <li>
           {{ partial "talk.html" . }}
         </li>
