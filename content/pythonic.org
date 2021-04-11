@@ -1,8 +1,44 @@
 #+TITLE: Pythonic
 #+DATE: 2021-04-09T20:54:29+02:00
-#+DRAFT: true
+
+* The Zen of Python
+
+#+begin_quote
+Beautiful is better than ugly.\\
+Explicit is better than implicit.\\
+Simple is better than complex.\\
+Complex is better than complicated.\\
+Flat is better than nested.\\
+Sparse is better than dense.\\
+Readability counts.\\
+Special cases aren't special enough to break the rules.\\
+Although practicality beats purity.\\
+Errors should never pass silently.\\
+Unless explicitly silenced.\\
+In the face of ambiguity, refuse the temptation to guess.\\
+There should be one-- and preferably only one --obvious way to do it.\\
+Although that way may not be obvious at first unless you're Dutch.\\
+Now is better than never.\\
+Although never is often better than *right* now.\\
+If the implementation is hard to explain, it's a bad idea.\\
+If the implementation is easy to explain, it may be a good idea.\\
+Namespaces are one honking great idea -- let's do more of those!
+
+
+                                   --------- Tim Peters
+#+end_quote
+
+* [[https://effectivepython.com/][Effective Python]]
+
+** Pythonic Thinking
 
 1. Use Python 3; Avoid Python 2.
 2. Follow [[https://www.python.org/dev/peps/pep-0008/][PEP8]] style guide.
 3. Understand differences between =str= and =bytes=.
-4. Use [[https://realpython.com/python-string-formatting/#3-string-interpolation-f-strings-python-36][f-Strings]] (string interpolation)
+4. Learn =str.format= but prefer [[https://realpython.com/python-string-formatting/#3-string-interpolation-f-strings-python-36][f-Strings]] (string interpolation).
+5. Wrap complex logic into helper functions.
+6. Prefer unpacking over indexing.
+7. Prefer [[https://docs.python.org/3/library/functions.html#enumerate][=enumerate=]] over [[https://docs.python.org/3/library/functions.html#func-range][=range=]].
+8. Use [[https://docs.python.org/3/library/functions.html#zip][=zip=]] to process iterators in parallel.
+9. Avoid =else= blocks after =for= and =while= loops.
+10. Prevent repetition with [[https://realpython.com/lessons/assignment-expressions/][assignment expressions]] (walrus operator =:==).

@@ -1,0 +1,41 @@
+conferences:
+  CHES2020:
+    title: Defeating State-of-the-Art White-Box Countermeasures with Advanced Gray-Box Attacks
+    date: 2020-09-16
+    venue: CHES 2020
+    city: Virtual
+    slides: /pdf/2020-ches.pdf
+    video: https://youtu.be/PrJeJjQCKM0 
+
+  CHES2019:
+    title: Analysis and Improvement of Differential Computation Attacks against Internally-Encoded White-Box Implementations
+    date: 2019-08-26
+    venue: CHES 2019
+    city: Atlanta
+    slides: /pdf/2019-ches.pdf
+    video: https://youtu.be/KAI79sG0Ah4
+
+  COSADE2019:
+    title: Higher-Order DCA against Standard Side-Channel Countermeasures
+    date: 2019-04-04
+    venue: COSADE 2019
+    city: Darmstadt
+    slides: /pdf/2019-cosade.pdf
+
+  RSA2015:
+    title: "Higher-order masking in practice: A vector implementation of masked AES for ARM NEON"
+    date: 2015-04-22
+    venue: CT-RSA 2015
+    city: San Francisco
+    slides: /pdf/2015-ctrsa.pdf
+      
+symposiums:
+  RWC2018:
+    title: How to Reveal the Secrets of an Obscure White-Box Implementation
+    date: 2018-01-12
+    venue: RWC 2018
+    city: Zurich
+    slides: /pdf/2018-rwc.pdf
+    video: https://youtu.be/efrO-1wak6c
+  
+  

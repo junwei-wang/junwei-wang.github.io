@@ -1,0 +1,15 @@
+<span>{{ .title }}<span>
+</br>
+<div>
+  <span class="text-secondary">{{ .venue  }}, {{ .date  }}, {{ .city  }} </span>
+  &nbsp;
+  &nbsp;
+
+  {{ if .slides }}
+  <span><a href="{{ .slides }}"><i class="bi bi-file-slides text-dark"></i></a></span>
+  {{ end }}
+  &nbsp;
+  {{ if .video }}
+  <span><a href="{{ .video }}"><i class="bi bi-camera-video text-dark"></i></a></span>
+  {{ end }}
+</div>
