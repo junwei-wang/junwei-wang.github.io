@@ -9,7 +9,7 @@ title = "Junwei Wang"
 I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com/) in Paris since 2017.
 I mainly work on [white-box cryptography](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.7995&rep=rep1&type=pdf) and privacy-preserving cryptography.
 
-Before that, I was a senior software engineer at [Baidu](https://www.baidu.com) in Beijing.
+Before that, I was a senior software engineer at [Baidu](https://www.baidu.com) in Beijing from 2015 to 2017.
 
 I am a member of [CHES 2021 artifact review committee](https://ches.iacr.org/2021/artifacts.php). 
 
@@ -19,7 +19,7 @@ I co-organized the [2nd edition](https://whibox-contest.github.io/2019/), and is
 
 I obtained my Ph.D. degree in cryptography in 2020 from the [University of Luxembourg](https://uni.lu), and from the [University Paris 8](https://www.univ-paris8.fr/) under the supervision of [Jean-Sébastien CORON](http://www.crypto-uni.lu/jscoron/index.html), [Sihem MESNAGER](http://www.math.univ-paris13.fr/~mesnager/), [Pascal PAILLIER](https://scholar.google.com/citations?user=xwzhjfoAAAAJ&hl=en), and [Matthieu RIVAIN](http://www.matthieurivain.com/). 
 The defense of my thesis entitled **On the practical security of white-box cryptography**, took place in June 24, 2020.
-Please find more information [jwa.ng/thesis](/thesis).
+Please find more information in [jwa.ng/thesis](/thesis).
 
 Before that, I received my master degrees in computer science from [the University of Luxembourg](https://uni.lu) and [Shandong University](https://en.sdu.edu.cn/) in 2015.
 
