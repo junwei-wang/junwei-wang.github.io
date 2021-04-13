@@ -50,3 +50,6 @@ Namespaces are one honking great idea -- let's do more of those!
 13. Prefer [[https://www.python.org/dev/peps/pep-3132/][catch-all unpacking]] (starred expression) over slicing
 14. Sort by complex criteria using =key= parameters
 15. Be cautious when relying on the =dict= insert order
+16. Prefer =get= over =in= and =KeyError= to handle missing dictionary keys.
+17. Prefer =defaultdict= over =setdefault= to handle missing items in internal states.
+18. Construct key-dependent default values with =__missing__=.
