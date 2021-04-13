@@ -42,3 +42,11 @@ Namespaces are one honking great idea -- let's do more of those!
 8. Use [[https://docs.python.org/3/library/functions.html#zip][=zip=]] to process iterators in parallel.
 9. Avoid =else= blocks after =for= and =while= loops.
 10. Prevent repetition with [[https://realpython.com/lessons/assignment-expressions/][assignment expressions]] (walrus operator =:==).
+
+** List and Dictionaries
+
+11. [@11] Know how to *slice* sequences.
+12. Avoid *striding* and *slicing* in a single expression.
+13. Prefer [[https://www.python.org/dev/peps/pep-3132/][catch-all unpacking]] (starred expression) over slicing
+14. Sort by complex criteria using =key= parameters
+15. Be cautious when relying on the =dict= insert order
