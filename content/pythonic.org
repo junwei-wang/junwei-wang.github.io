@@ -53,3 +53,11 @@ Namespaces are one honking great idea -- let's do more of those!
 16. Prefer =get= over =in= and =KeyError= to handle missing dictionary keys.
 17. Prefer =defaultdict= over =setdefault= to handle missing items in internal states.
 18. Construct key-dependent default values with =__missing__=.
+
+** Functions
+
+19. [@19] Never unpack more than three variables when functions return multiple values.
+20. Prefer raising exceptions to returning =None=.
+21. Know how closures interact with variable scope.
+22. Reduce visual noise with [[https://realpython.com/python-kwargs-and-args/][variable positional arguments]] (/varargs/, /starargs/)
+23. Provide optional behavior with keyword arguments

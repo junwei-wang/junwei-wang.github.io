@@ -41,4 +41,3 @@ Before that, I received my bachelor degree in software engineering from [Shandon
 - Chinese (mother tongue)
 - English (work proficiency)
 - French (A2 - B1)
-
