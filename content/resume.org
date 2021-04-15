@@ -22,7 +22,7 @@ I have several peer-viewed publications in white-box cryptography and implementa
 
 ** Work Experience
 
-*** Cryptography Experts, [[https://cryptoexperts.com][CryptoExperts]], Paris
+*** Cryptography Expert, [[https://cryptoexperts.com][CryptoExperts]], Paris
 /April 2017 - today/
 
 Mainly focusing on white-box cryptography and privacy-preserving privacy.
