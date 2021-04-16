@@ -61,3 +61,13 @@ Namespaces are one honking great idea -- let's do more of those!
 21. Know how closures interact with variable scope.
 22. Reduce visual noise with [[https://realpython.com/python-kwargs-and-args/][variable positional arguments]] (/varargs/, /starargs/)
 23. Provide optional behavior with keyword arguments
+24. Use =None= and [[https://realpython.com/documenting-python-code/][Docstrings]] to specify dynamic default arguments
+25. Enforce clarify with keyword-only and [[https://realpython.com/lessons/positional-only-arguments/][positional-only arguments]]
+26. Define function decorators with =functools.wraps=
+
+** Comprehensions and Generators
+
+27. [@27] Use comprehensions instead of =map= and =filter=
+28. Avoid more than two control subexpressions in comprehensions
+29. Avoid repeated work in comprehensions by using assignment expressions (see 17.)
+30. Be defensive when iterating over arguments
