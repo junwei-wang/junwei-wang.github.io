@@ -33,6 +33,8 @@ Apart from [[https://jwa.ng/thesis/][my doctoral research]],
 - working on internal white-box analytical tools.
 - designing and prototyping privacy-preserving cryptography for our customers in various applications including privacy-preserving machine learning, and private data retrieval, and so on.
 
+*Tools*: AWS, Docker Swarm, Python, C, SageMath, Mathematica
+
 *** Software Engineer, [[https://baidu.com][Baidu]], Beijing
 /July 2015 - April 2017/
 

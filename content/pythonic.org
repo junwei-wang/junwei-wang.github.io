@@ -70,4 +70,16 @@ Namespaces are one honking great idea -- let's do more of those!
 27. [@27] Use comprehensions instead of =map= and =filter=
 28. Avoid more than two control subexpressions in comprehensions
 29. Avoid repeated work in comprehensions by using assignment expressions (see 17.)
-30. Be defensive when iterating over arguments
+30. Consider generators instead of returning lists
+31. Be defensive when iterating over arguments
+32. Consider [[https://realpython.com/introduction-to-python-generators/#building-generators-with-generator-expressions][generator expressions]] for large list comprehensions
+33. Compose multiple generators with =yield from=
+34. Avoid injecting data into generators with =send=
+35. Avoid causing state transitions in generators with =throw=
+36. Consider [[https://docs.python.org/3/library/itertools.html][=itertools=]] and [[https://github.com/more-itertools/more-itertools][=more-itertools=]] for working with iterators and generators
+
+    a. linking iterators together
+    b. filtering items from an iterators
+    c. produce combinations of items from iterators
+
+37. abc
