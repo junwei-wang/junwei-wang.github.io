@@ -28,10 +28,12 @@ I have several peer-viewed publications in white-box cryptography and implementa
 Mainly focusing on white-box cryptography and privacy-preserving privacy.
 
 Apart from [[https://jwa.ng/thesis/][my doctoral research]],
-- building white-box implementations for standard cryptographic primitives that pass security evaluation from an accredited security laboratory.
-- designed, developed, and maintaining a services to automate the generation and delivery of our white-box implementations.
+- designing and building white-box implementations for standard cryptographic primitives that pass security evaluation from an accredited security laboratory.
+- designing and implementing a generic framework to prototype for evolving white-box designs
+- designing and developing a web services to automate the generation and delivery of our white-box implementations.
 - working on internal white-box analytical tools.
 - designing and prototyping privacy-preserving cryptography for our customers in various applications including privacy-preserving machine learning, and private data retrieval, and so on.
+- administrating the intranet and cloud services.
 
 *Tools*: AWS, Docker Swarm, Python, C, SageMath, Mathematica
 
@@ -94,7 +96,7 @@ More information on my thesis can be found in [[https://jwa.ng/thesis/][jwa.ng/t
 *** Master in Computer Science, University of Luxembourg / Shandong University
 /September 2012 - June 2015/
 
-Under the supervision of Professor [[http://www.crypto-uni.lu/jscoron/index.html][Jean-Sébastien Coron]], I successfully defended my master thesis, entitled *Efficient Implementation of High-Order DPA Countermeasures for the AES Using the ARM NEON Instruction Set*, with an /excellent/ mark (18/20).
+I successfully defended my master thesis, entitled *Efficient Implementation of High-Order DPA Countermeasures for the AES Using the ARM NEON Instruction Set*, with an /excellent/ mark (18/20).
 My work achieved protection against higher-order DPA attacks with a very low penalty factor through a combination of algebraic, algorithmic, and implementation techniques.
 The obtained results in my master thesis were published at [[https://www.springer.com/gp/book/9783319167145][CT-RSA 2015]].
 
