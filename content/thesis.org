@@ -3,7 +3,7 @@
 * Thesis
 
 The defense of my thesis, entitled **On the practical security of white-box cryptography**, took place in June 24, 2020.
-Here are my thesis [[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/267b6c31-196e-44bc-9196-6379f2114108/manuscript-20200918.pdf][manuscript]] and [[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed651733-c0e3-4edb-97f7-035e6b013be1/2020-phd-defense.pdf][presentation slides]].
+Here are my thesis [[/pdf/thesis.pdf][manuscript]] and [[/pdf/thesis-defense-slides.pdf][presentation slides]].
 
 The recording of my defense is available on YouTube:
 
