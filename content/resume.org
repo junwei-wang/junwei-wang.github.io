@@ -25,7 +25,7 @@ I have several peer-viewed publications in white-box cryptography and implementa
 *** Cryptography Expert, [[https://cryptoexperts.com][CryptoExperts]], Paris
 /April 2017 - today/
 
-Mainly focusing on white-box cryptography and privacy-preserving privacy.
+Mainly focusing on white-box cryptography and privacy-preserving cryptography.
 
 Apart from [[https://jwa.ng/thesis/][my doctoral research]],
 - designing and building white-box implementations for standard cryptographic primitives that pass security evaluation from an accredited security laboratory.
@@ -119,7 +119,7 @@ The source code is available at [[https://github.com/junwei-wang/cpabe][junwei-w
 
 - *Chinese* (mother tongue)
 - *English* (work proficiency)
-- *French* (A2 - B1)
+- *French* (A2)
 
 ** Contact
 
