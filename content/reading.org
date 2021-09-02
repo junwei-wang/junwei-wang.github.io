@@ -6,3 +6,7 @@
 ** August
 
 - [[https://book.douban.com/subject/20376605/][阿特拉斯耸耸肩]]
+
+** September
+
+- [[https://book.douban.com/subject/3570456/][A Vector Space Approach to Geometry]]
