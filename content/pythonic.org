@@ -77,9 +77,7 @@ Namespaces are one honking great idea -- let's do more of those!
 34. Avoid injecting data into generators with =send=
 35. Avoid causing state transitions in generators with =throw=
 36. Consider [[https://docs.python.org/3/library/itertools.html][=itertools=]] and [[https://github.com/more-itertools/more-itertools][=more-itertools=]] for working with iterators and generators
-
     a. linking iterators together
     b. filtering items from an iterators
     c. produce combinations of items from iterators
-
 37. abc
