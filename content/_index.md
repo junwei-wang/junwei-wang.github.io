@@ -16,10 +16,8 @@ I co-organized the [2nd edition](https://whibox.io/contests/2019/) and the [3rd 
 I am also a member of the following program committees:
 
 - [CHES 2022](https://ches.iacr.org/2022/callforpapers.php)
-- CHES 2022 artifact review committee
+- CHES [2022](https://ches.iacr.org/2022/artifacts.php) and [2021](https://ches.iacr.org/2021/artifacts.php) artifact review committee
 - [ICSP 2021](https://icsp.co.in/)
-- [CHES 2021 artifact review committee](https://ches.iacr.org/2021/artifacts.php).
-
 
 ## Education
 
