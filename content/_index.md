@@ -6,9 +6,10 @@ title = "Junwei Wang"
 
 {{< figure class="avatar" src="/junwei_wang.jpg" >}}
 
-I am a cryptography engineer at [CryptoExperts](https://www.cryptoexperts.com/) in Paris since 2017.
+I am a cryptography engineer.
 I mainly work on [white-box cryptography](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.7995&rep=rep1&type=pdf) and privacy-preserving cryptography.
 
+I was cryptography engineering at [CryptoExperts](https://cryptoexperts.com) in Paris from 2017 to 2021.
 Before that, I was a senior software engineer at [Baidu](https://www.baidu.com) in Beijing from 2015 to 2017.
 
 I co-organized the [2nd edition](https://whibox.io/contests/2019/) and the [3rd edition](https://whibox.io/contests/2021/) of the [WhibOx](https://whibox.github.io/) contest, which are the CTF events of [CHES 2019](https://ches.iacr.org/2019/) and [CHES 2021](https://ches.iacr.org/2019/).
