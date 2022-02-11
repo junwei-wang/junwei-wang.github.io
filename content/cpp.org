@@ -5,4 +5,8 @@
 
 ** The Basics
 
-- **uniform initialization** from C++11 [[[https://www.geeksforgeeks.org/uniform-initialization-in-c/][geeksforgeeks]]]
+- **uniform initialization** (since C++11) [[[https://www.geeksforgeeks.org/uniform-initialization-in-c/][geeksforgeeks]]]
+- **immutability**: ~const~ and ~constexpr~ (since C++11) [[[https://stackoverflow.com/a/14117121][stackoverflow]]]
+- **range-based for loop** (since C++11) [[[https://en.cppreference.com/w/cpp/language/range-for][cppreference]], [[https://www.geeksforgeeks.org/range-based-loop-c/][geeksforgeeks]]]
+- **references** [[[https://www.geeksforgeeks.org/references-in-c/][geeksforgeeks]]]
+- **the null pointer**: ~nullptr~ (since C++11) [[[https://www.geeksforgeeks.org/understanding-nullptr-c/][stackoverflow]], [[https://en.cppreference.com/w/cpp/language/nullptr][cppreference]]]
