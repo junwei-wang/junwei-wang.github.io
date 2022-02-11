@@ -2,3 +2,4 @@ public
 resources
 /.jekyll-cache/
 /_ignore/
+/.hugo_build.lock
