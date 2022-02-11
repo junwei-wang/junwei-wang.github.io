@@ -1,0 +1,8 @@
+#+TITLE: C++
+#+DATE: 2022-02-11T22:14:18+02:00
+
+* Classic and Modern C++
+
+** The Basics
+
+- **uniform initialization** from C++11 [[[https://www.geeksforgeeks.org/uniform-initialization-in-c/][geeksforgeeks]]]
