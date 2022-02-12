@@ -22,8 +22,11 @@ I have several peer-viewed publications in white-box cryptography and implementa
 
 ** Work Experience
 
+*** Security Engineer, [[https://www.apple.com][Apple]], Paris
+/November 2020 - today/
+
 *** Cryptography Expert, [[https://cryptoexperts.com][CryptoExperts]], Paris
-/April 2017 - today/
+/April 2017 - November 2020/
 
 Mainly focusing on white-box cryptography and privacy-preserving cryptography.
 
