@@ -1,12 +1,27 @@
 #+TITLE: C++
 #+DATE: 2022-02-11T22:14:18+02:00
 
-* Classic and Modern C++
+* Classic and Modern C++ Features
+
+#+begin_quote
+Focus on programming techniques, not on language features.
+
+------ Bjarne Stroustrup
+#+end_quote
 
 ** The Basics
-
 - **uniform initialization** (since C++11) [[[https://www.geeksforgeeks.org/uniform-initialization-in-c/][geeksforgeeks]]]
 - **immutability**: ~const~ and ~constexpr~ (since C++11) [[[https://stackoverflow.com/a/14117121][stackoverflow]]]
 - **range-based for loop** (since C++11) [[[https://en.cppreference.com/w/cpp/language/range-for][cppreference]], [[https://www.geeksforgeeks.org/range-based-loop-c/][geeksforgeeks]]]
-- **references** [[[https://www.geeksforgeeks.org/references-in-c/][geeksforgeeks]]]
 - **the null pointer**: ~nullptr~ (since C++11) [[[https://www.geeksforgeeks.org/understanding-nullptr-c/][stackoverflow]], [[https://en.cppreference.com/w/cpp/language/nullptr][cppreference]]]
+- **references** [[[https://www.geeksforgeeks.org/references-in-c/][geeksforgeeks,]] [[https://en.cppreference.com/w/cpp/language/reference][cppreference]]] and **reference initialization** [[[https://en.cppreference.com/w/cpp/language/reference_initialization][cppreference]]]
+  - lvalue references ~T& ref{target};~
+  - rvalue references (since C++11) ~T&& ref{target};~
+  - forwarding references
+  - dangling references
+
+** Structures
+- **structures**: ~struct~
+- **classes**: ~class~
+- **unions**: ~union~ [[[https://en.cppreference.com/w/cpp/language/union][cppreference]]]. Avoid "naked" unions, use [[https://en.wikipedia.org/wiki/Tagged_union][tagged unions]] or ~std::variant~.
+- **enumerations**: "plain" ~enum~ and ~enum class~.
