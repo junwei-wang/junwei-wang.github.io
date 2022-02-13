@@ -4,41 +4,48 @@
 
 ** Profile
 
-I am a Ph.D. in cryptography.
-Currently, I work as a cryptography expert at [[https://cryptoexperts.com][CryptoExperts]], a service and technology company in cryptography.
-I also conducted my doctoral study at [[https://cryptoexperts.com][CryptoExperts]].
+I am a Ph.D. in *cryptography*.
+My Ph.D. thesis is about *white-box cryptography*.
+White-box cryptography is a key means to ensure the security of cryptographic implementations in untrusted computing environments.
+It is widely used in *DRM* and *mobile payments*.
 
-My current work and research interests are white-box cryptography and privacy-preserving cryptography.
-In particular, I build and/or break white-box implementations for cryptographic primitives deployed in untrusted computation environment;
-And I apply cutting-edge research results in cryptography to enhance the user's privacy and to protect customer's intellectual property.
-
-I am a member of the [[https://ches.iacr.org/2021/artifacts.php][CHES 2021 artifact review committee]] and the [[https://whibox-contest.github.io/2021/][WhibOx Contest 2021]] organizing committee.
-Previously, I co-organized the [[https://whibox-contest.github.io/2019/][WhibOx Contest 2019]] and I was an [[https://www.ecrypt.eu.org/net/][ECRYPT-NET]] fellow.
-
-I have 6+ years experience in software development, 4 of which focus on the security sector since 2017.
+I have 7+ years of experience in software development.
 I have written code for cryptography, big-data processing, back-end services, and web applications.
 
-I have several peer-viewed publications in white-box cryptography and implementations of cryptographic algorithms.
+I have several peer-viewed major publications on white-box cryptography and cryptographic implementations.
+
+# My work and research interests are white-box cryptography and privacy-preserving cryptography.
+# In particular, I design and/or break white-box implementations for cryptographic primitives deployed in untrusted computation environment;
+# And I apply cutting-edge research results in cryptography to enhance the user's privacy and to protect customer's intellectual property.
+
+I was on the program committee of [[https://ches.iacr.org/2022][CHES 2022]], [[https://ches.iacr.org/2022/artifacts.php][CHES 2022 artifact review]], and [[https://ches.iacr.org/2021/artifacts.php][CHES 2021 artifact review]].
+I co-organized two editions of white-box competitions: [[https://whibox.io/contests/2021/][WhibOx Contest 2021]] and [[https://whibox.io/contests/2019/][WhibOx Contest 2019]].
+I was an [[https://www.ecrypt.eu.org/net/][ECRYPT-NET]] fellow.
 
 ** Work Experience
 
-*** Security Engineer, [[https://www.apple.com][Apple]], Paris
-/November 2020 - today/
+*** Software Security Engineer, [[https://www.apple.com][Apple]]
+/November 2021 - today/
+
+Analyzing white-box implementations used in Apple DRM.
+
+*Tools*: C++, Python, Shell, Buildbot
 
 *** Cryptography Expert, [[https://cryptoexperts.com][CryptoExperts]], Paris
-/April 2017 - November 2020/
+/April 2017 - November 2021/
 
-Mainly focusing on white-box cryptography and privacy-preserving cryptography.
+CryptoExperts is a service and technology company in cryptography.
+I mainly worked on white-box cryptography and privacy-preserving cryptography.
 
-Apart from [[https://jwa.ng/thesis/][my doctoral research]],
+Specifically, I was responsible for
 - designing and building white-box implementations for standard cryptographic primitives that pass security evaluation from an accredited security laboratory.
+- developing on white-box analytical tools.
 - designing and implementing a generic framework to prototype for evolving white-box designs
 - designing and developing a web services to automate the generation and delivery of our white-box implementations.
-- working on internal white-box analytical tools.
 - designing and prototyping privacy-preserving cryptography for our customers in various applications including privacy-preserving machine learning, and private data retrieval, and so on.
 - administrating the intranet and cloud services.
 
-*Tools*: AWS, Docker Swarm, Python, C, SageMath, Mathematica
+*Tools*: AWS, Docker, Python, C, SageMath, Mathematica
 
 *** Software Engineer, [[https://baidu.com][Baidu]], Beijing
 /July 2015 - April 2017/
@@ -112,20 +119,23 @@ The source code is available at [[https://github.com/junwei-wang/cpabe][junwei-w
 
 ** Publications
 
-1. L.Goubin, M.Rivain, **J.Wang**: /Defeating State-of-the-Art White-Box Countermeasures with Advanced Gray-Box Attacks./ IACR TCHES 2020.
-2. L.Goubin, P.Paillier, M.Rivain, **J.Wang**: /How to reveal the secrets of an obscure white-box implementation./ Journal of Cryptographic Engineering 10(1).
-3. M.Rivain, **J.Wang**: /Analysis and Improvement of Differential Computation Attacks against Internally-Encoded White-Box Implementations./ IACR TCHES 2019.
-4. A.Bogdanov, M.Rivain, P.S.Vejre, **J.Wang**: /Higher-Order DCA against Standard Side-Channel Countermeasures./ COSADE 2019: 118-141
-5. **J.Wang**, P.K.Vadnala, J.Großschädl, Q.Xu: /Higher-Order Masking in Practice: A Vector Implementation of Masked AES for ARM NEON./ CT-RSA 2015: 181-198
+[1] L.Goubin, M.Rivain, **J.Wang**: /Defeating State-of-the-Art White-Box Countermeasures with Advanced Gray-Box Attacks./ IACR TCHES 2020.
+
+[2] L.Goubin, P.Paillier, M.Rivain, **J.Wang**: /How to reveal the secrets of an obscure white-box implementation./ Journal of Cryptographic Engineering 10(1).
+
+[3] M.Rivain, **J.Wang**: /Analysis and Improvement of Differential Computation Attacks against Internally-Encoded White-Box Implementations./ IACR TCHES 2019.
+
+[4] A.Bogdanov, M.Rivain, P.S.Vejre, **J.Wang**: /Higher-Order DCA against Standard Side-Channel Countermeasures./ COSADE 2019: 118-141
+
+[5] **J.Wang**, P.K.Vadnala, J.Großschädl, Q.Xu: /Higher-Order Masking in Practice: A Vector Implementation of Masked AES for ARM NEON./ CT-RSA 2015: 181-198
 
 ** Languages
 
-- *Chinese* (mother tongue)
 - *English* (work proficiency)
+- *Chinese* (mother tongue)
 - *French* (A2)
 
 ** Contact
 
 - *Email*: [[mailto:me@jwa.ng][me@jwa.ng]] / [[mailto:jwang@mailbox.org][jwang@mailbox.org]]
 - *Phone*: +33 (0) 7 69 39 52 85
-- *Address*: CryptoExperts (6th floor), 41 Boulevard des Capucines, 75002 Paris, France
