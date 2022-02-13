@@ -11,6 +11,8 @@ It is widely used in *DRM* and *mobile payments*.
 
 I have 7+ years of experience in software development.
 I have written code for cryptography, big-data processing, back-end services, and web applications.
+I have a good understanding of software architecture and the way to write clean code.
+I have balanced ability to do scientific research and do engineering.
 
 I have several peer-viewed major publications on white-box cryptography and cryptographic implementations.
 
@@ -113,7 +115,7 @@ The obtained results in my master thesis were published at [[https://www.springe
 *** Bachelor in Software Engineering, Shandong University
 /September 2008 - June 2012/, GPA: 89.35/100
 
-I learned the basics of computer science, including but not limited to operating system, data structures and algorithms, computer network, etc.
+I learned the computer science fundamentals, including but not limited to operating system, data structures and algorithms, computer network, compilation theory, etc.
 As the graduation project, I implemented the *Ciphertext-Policy Attributed-Based Encryption* (CP-ABE) in Java.
 The source code is available at [[https://github.com/junwei-wang/cpabe][junwei-wang/cpabe]].
 
