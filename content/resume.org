@@ -10,7 +10,7 @@ White-box cryptography is a key means to ensure the security of cryptographic im
 It is widely used in *DRM* and *mobile payments*.
 
 I have 7+ years of experience in software development.
-I have written code for cryptography, big-data processing, back-end services, and web applications.
+I have written code for *cryptography and security*, *big-data processing*, *system administration*, *back-end services*, and *web applications*.
 I have a good understanding of software architecture and the way to write clean code.
 I have balanced ability to do scientific research and do engineering.
 

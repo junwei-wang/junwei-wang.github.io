@@ -53,14 +53,14 @@ math = true
     name = "Contact"
     url = "/contact/"
     weight = 4
-  [[menu.main]]
-    name = "C++"
-    url = "/cpp/"
-    weight = 5
-  [[menu.main]]
-    name = "Pythonic"
-    url = "/pythonic/"
-    weight = 6
+  # [[menu.main]]
+  #   name = "C++"
+  #   url = "/cpp/"
+  #   weight = 5
+  # [[menu.main]]
+  #   name = "Pythonic"
+  #   url = "/pythonic/"
+  #   weight = 6
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files

@@ -20,6 +20,7 @@ Focus on programming techniques, not on language features.
   - forwarding references
   - dangling references
 - **structured binding** (since C++17) [[[https://www.geeksforgeeks.org/structured-binding-c/][geeksforgeeks]], [[https://en.cppreference.com/w/cpp/language/structured_binding][cppreference]]]
+- **RAII**: Resource Acquisition Is Initialization
 
 ** Structures
 - **structures**: ~struct~
