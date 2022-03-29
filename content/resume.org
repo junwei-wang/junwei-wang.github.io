@@ -29,9 +29,9 @@ I was an [[https://www.ecrypt.eu.org/net/][ECRYPT-NET]] fellow.
 *** Software Security Engineer, [[https://www.apple.com][Apple]]
 /November 2021 - today/
 
-Analyzing white-box implementations used in Apple DRM.
+Analyzing the security of white-box implementations used in Apple DRM.
 
-*Tools*: C++, Python, Shell, Buildbot
+*Tools*: C/C++, Python, Shell, Buildbot
 
 *** Cryptography Expert, [[https://cryptoexperts.com][CryptoExperts]], Paris
 /April 2017 - November 2021/
