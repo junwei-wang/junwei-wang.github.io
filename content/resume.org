@@ -6,10 +6,10 @@
 
 I am a Ph.D. in *cryptography*.
 My Ph.D. thesis is about *white-box cryptography*.
-White-box cryptography is a key means to ensure the security of cryptographic implementations in untrusted computing environments.
+White-box cryptography is a key means to ensure the security of software cryptographic implementations in untrusted computing environments.
 It is widely used in *DRM* and *mobile payments*.
 
-I have 7+ years of experience in software development.
+I have 8 years of experience in software development.
 I have written code for *cryptography and security*, *big-data processing*, *system administration*, *back-end services*, and *web applications*.
 I have a good understanding of software architecture and the way to write clean code.
 I have balanced ability to do scientific research and do engineering.
@@ -20,16 +20,18 @@ I have several peer-viewed major publications on white-box cryptography and cryp
 # In particular, I design and/or break white-box implementations for cryptographic primitives deployed in untrusted computation environment;
 # And I apply cutting-edge research results in cryptography to enhance the user's privacy and to protect customer's intellectual property.
 
-I was on the program committee of [[https://ches.iacr.org/2022][CHES 2022]], [[https://ches.iacr.org/2022/artifacts.php][CHES 2022 artifact review]], and [[https://ches.iacr.org/2021/artifacts.php][CHES 2021 artifact review]].
-I co-organized two editions of white-box competitions: [[https://whibox.io/contests/2021/][WhibOx Contest 2021]] and [[https://whibox.io/contests/2019/][WhibOx Contest 2019]].
-I was an [[https://www.ecrypt.eu.org/net/][ECRYPT-NET]] fellow.
+# I was on the program committee of [[https://ches.iacr.org/2022][CHES 2022]], [[https://ches.iacr.org/2022/artifacts.php][CHES 2022 artifact review]], and [[https://ches.iacr.org/2021/artifacts.php][CHES 2021 artifact review]].
+# I co-organized two editions of white-box competitions: [[https://whibox.io/contests/2021/][WhibOx Contest 2021]] and [[https://whibox.io/contests/2019/][WhibOx Contest 2019]].
+# I was an [[https://www.ecrypt.eu.org/net/][ECRYPT-NET]] fellow.
 
 ** Work Experience
 
 *** Software Security Engineer, [[https://www.apple.com][Apple]]
 /November 2021 - today/
 
-Analyzing the security of white-box implementations used in Apple DRM.
+- Design and implementation of the next generation of white-box cryptography at Apple.
+- Security assesement of white-box implementations used in Apple DRM.
+- Infrastructure maintenance
 
 *Tools*: C/C++, Python, Shell, Buildbot
 
@@ -62,31 +64,31 @@ Specifically,
 
 *Tools*: Linux, Docker, Java, Python, PHP, Hadoop, HBase, Apache Airflow, OpenRefine
 
-*** Research Intern, [[https://www.riscure.com/][Riscure]], Delft
-/April 2018 - July 2018/
+# *** Research Intern, [[https://www.riscure.com/][Riscure]], Delft
+# /April 2018 - July 2018/
 
-Investigated in-depth when and why *differential computation analysis* (DCA) is able to break internally-encoded white-box implementations.
-Partial work published in top-tier cryptography conference [[https://tches.iacr.org/index.php/TCHES/issue/view/91][TCHES 2019]].
+# Investigated in-depth when and why *differential computation analysis* (DCA) is able to break internally-encoded white-box implementations.
+# Partial work published in top-tier cryptography conference [[https://tches.iacr.org/index.php/TCHES/issue/view/91][TCHES 2019]].
 
-*Tools*: Probability, Boolean functions theory, algebra.
+# *Tools*: Probability, Boolean functions theory, algebra.
 
-*** Backend Engineer Intern, [[https://www.eyespage.com/][Eyespage]], Beijing
-/December 2014 - May 2015/
+# *** Backend Engineer Intern, [[https://www.eyespage.com/][Eyespage]], Beijing
+# /December 2014 - May 2015/
 
-- Co-designed the architecture of the back-end system.
-- Designed and developed RESTful API design with Python stack.
-- Developed a spider to crawl application metadata from Google Play Store by using the Scrapy framework.
-- Used ELK stack and Zabbix for monitor, analysis, and operations.
+# - Co-designed the architecture of the back-end system.
+# - Designed and developed RESTful API design with Python stack.
+# - Developed a spider to crawl application metadata from Google Play Store by using the Scrapy framework.
+# - Used ELK stack and Zabbix for monitor, analysis, and operations.
 
-*Tools*: Linux, Python stack, ELK stack, MySQL, Apache Cassandra
+# *Tools*: Linux, Python stack, ELK stack, MySQL, Apache Cassandra
 
-*** Operations Engineer Inter, [[https://baidu.com][Baidu]], Beijing
-/August 2011 - January 2012/
+# *** Operations Engineer Inter, [[https://baidu.com][Baidu]], Beijing
+# /August 2011 - January 2012/
 
-Using the telemetry data collected by the browser and third-party clients, developed a user-friendly monitoring and early warning system for Baidu's various online services.
-Mainly focused on obtaining interesting data from scratch, then processing, storing, and displaying them with charts.
+# Using the telemetry data collected by the browser and third-party clients, developed a user-friendly monitoring and early warning system for Baidu's various online services.
+# Mainly focused on obtaining interesting data from scratch, then processing, storing, and displaying them with charts.
 
-*Tools*: Linux, Python, Shell, PHP, MySQL
+# *Tools*: Linux, Python, Shell, PHP, MySQL
 
 ** Education
 
@@ -108,16 +110,16 @@ More information on my thesis can be found in [[https://jwa.ng/thesis/][jwa.ng/t
 *** Master in Computer Science, University of Luxembourg / Shandong University
 /September 2012 - June 2015/
 
-I successfully defended my master thesis, entitled *Efficient Implementation of High-Order DPA Countermeasures for the AES Using the ARM NEON Instruction Set*, with an /excellent/ mark (18/20).
-My work achieved protection against higher-order DPA attacks with a very low penalty factor through a combination of algebraic, algorithmic, and implementation techniques.
-The obtained results in my master thesis were published at [[https://www.springer.com/gp/book/9783319167145][CT-RSA 2015]].
+# I successfully defended my master thesis, entitled *Efficient Implementation of High-Order DPA Countermeasures for the AES Using the ARM NEON Instruction Set*, with an /excellent/ mark (18/20).
+# My work achieved protection against higher-order DPA attacks with a very low penalty factor through a combination of algebraic, algorithmic, and implementation techniques.
+# The obtained results in my master thesis were published at [[https://www.springer.com/gp/book/9783319167145][CT-RSA 2015]].
 
 *** Bachelor in Software Engineering, Shandong University
 /September 2008 - June 2012/, GPA: 89.35/100
 
-I learned the computer science fundamentals, including but not limited to operating system, data structures and algorithms, computer network, compilation theory, etc.
-As the graduation project, I implemented the *Ciphertext-Policy Attributed-Based Encryption* (CP-ABE) in Java.
-The source code is available at [[https://github.com/junwei-wang/cpabe][junwei-wang/cpabe]].
+# I learned the computer science fundamentals, including but not limited to operating system, data structures and algorithms, computer network, compilation theory, etc.
+# As the graduation project, I implemented the *Ciphertext-Policy Attributed-Based Encryption* (CP-ABE) in Java.
+# The source code is available at [[https://github.com/junwei-wang/cpabe][junwei-wang/cpabe]].
 
 ** Publications
 
@@ -131,11 +133,11 @@ The source code is available at [[https://github.com/junwei-wang/cpabe][junwei-w
 
 [5] **J.Wang**, P.K.Vadnala, J.Großschädl, Q.Xu: /Higher-Order Masking in Practice: A Vector Implementation of Masked AES for ARM NEON./ CT-RSA 2015: 181-198
 
-** Languages
+# ** Languages
 
-- *English* (work proficiency)
-- *Chinese* (mother tongue)
-- *French* (A2)
+# - *English* # (work proficiency)
+# - *Chinese* # (mother tongue)
+# - *French* (B1)
 
 ** Contact
 
