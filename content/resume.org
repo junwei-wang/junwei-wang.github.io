@@ -2,19 +2,19 @@
 
 # * Resume
 
-** Profile
+# ** Profile
 
-I am a Ph.D. in *cryptography*.
-My Ph.D. thesis is about *white-box cryptography*.
-White-box cryptography is a key means to ensure the security of software cryptographic implementations in untrusted computing environments.
-It is widely used in *DRM* and *mobile payments*.
+# I am a Ph.D. in *cryptography*.
+# My Ph.D. thesis is about *white-box cryptography*.
+# White-box cryptography is a key means to ensure the security of software cryptographic implementations in untrusted computing environments.
+# It is widely used in *DRM* and *mobile payments*.
 
-I have 8 years of experience in software development.
-I have written code for *cryptography and security*, *big-data processing*, *system administration*, *back-end services*, and *web applications*.
-I have a good understanding of software architecture and the way to write clean code.
-I have balanced ability to do scientific research and do engineering.
+# I have 8 years of experience in software development.
+# I have written code for *cryptography and security*, *big-data processing*, *system administration*, *back-end services*, and *web applications*.
+# I have a good understanding of software architecture and the way to write clean code.
+# I have balanced ability to do scientific research and do engineering.
 
-I have several peer-viewed major publications on white-box cryptography and cryptographic implementations.
+# I have several peer-viewed major publications on white-box cryptography and cryptographic implementations.
 
 # My work and research interests are white-box cryptography and privacy-preserving cryptography.
 # In particular, I design and/or break white-box implementations for cryptographic primitives deployed in untrusted computation environment;
@@ -24,43 +24,49 @@ I have several peer-viewed major publications on white-box cryptography and cryp
 # I co-organized two editions of white-box competitions: [[https://whibox.io/contests/2021/][WhibOx Contest 2021]] and [[https://whibox.io/contests/2019/][WhibOx Contest 2019]].
 # I was an [[https://www.ecrypt.eu.org/net/][ECRYPT-NET]] fellow.
 
+** Objective
+
+Experienced Ph.D. in cryptography with a strong software development background, seeking opportunities to apply cryptographic engineering and/or white-box cryptography expertise in innovative projects that enhance software security.
+
+** Skills
+
+- Cryptography engineering 
+- Side-Channel analysis and white-box cryptography
+- Security assessment
+- Software development and system administration
+
 ** Work Experience
 
 *** Software Security Engineer, [[https://www.apple.com][Apple]]
-/November 2021 - today/
+/November 2021 - Present/
 
-- Design and implementation of the next generation of white-box cryptography at Apple.
-- Security assesement of white-box implementations used in Apple DRM.
-- Infrastructure maintenance
-
-*Tools*: C/C++, Python, Shell, Buildbot
+- Leading the design and implementation of the next generation of white-box cryptography in Apple. 
+- Conducting security assesement of white-box implementations used at Apple.
+- Maintaining infrastructure and tools using python, shell, and buildbot, etc.
 
 *** Cryptography Expert, [[https://cryptoexperts.com][CryptoExperts]], Paris
 /April 2017 - November 2021/
 
-CryptoExperts is a service and technology company in cryptography.
+CryptoExperts is a leading service and technology company in cryptography.
 I mainly worked on white-box cryptography and privacy-preserving cryptography.
 
-Specifically, I was responsible for
-- designing and building white-box implementations for standard cryptographic primitives that pass security evaluation from an accredited security laboratory.
-- developing on white-box analytical tools.
-- designing and implementing a generic framework to prototype for evolving white-box designs
-- designing and developing a web services to automate the generation and delivery of our white-box implementations.
-- designing and prototyping privacy-preserving cryptography for our customers in various applications including privacy-preserving machine learning, and private data retrieval, and so on.
-- administrating the intranet and cloud services.
+- Designed and built white-box implementations for standard cryptographic primitives, passing security evaluation from an accredited security laboratory.
+- Designed and implemented a generic framework to prototype for evolving white-box designs.
+- Developed a white-box analytical tools.
+- Designed and developed a web services to automate the generation and delivery of white-box implementations.
+- Prototyped privacy-preserving cryptography for customes.
+- Administered the intranet and cloud services.
 
 *Tools*: AWS, Docker, Python, C, SageMath, Mathematica
 
 *** Software Engineer, [[https://baidu.com][Baidu]], Beijing
 /July 2015 - April 2017/
 
-As a member of the Artificial Intelligent Group (AIG), mainly focus on automating the process of generating knowledge graphs data for the Baidu search engine.
-
-Specifically,
-- designed and developed a workflow system based on the Apache Airflow project for scheduling, monitoring the process of knowledge graphs with a complex dependency topology.
-- developed an adapter system for the compatibility between protocols for batch data and stream data.
-- developed a computation framework for batch data.
-- developed a data cleaning system based on the OpenRefine project.
+- Focused on automating the process of generating knowledge graphs data for the Baidu search engine.
+- Designed and developed a workflow system based on Apache Airflow for scheduling, monitoring the process of knowledge graphs with a complex dependency topology.
+- Developed an adapter system for the compatibility between protocols for batch data and stream data.
+- Developed a computation framework for batch data.
+- Developed a data cleaning system based on the OpenRefine project.
 
 *Tools*: Linux, Docker, Java, Python, PHP, Hadoop, HBase, Apache Airflow, OpenRefine
 
@@ -92,11 +98,17 @@ Specifically,
 
 ** Education
 
-*** Ph.D. in Cryptography, University of Luxembourg / University Paris 8
+*** Ph.D. in Cryptography, University of Luxembourg 
+# / University Paris 8
 /April 2017 - June 2020/
 
-My thesis subject is white-box cryptography, which is a particularly challenging research topic, and which has important applications for the industry of secure software.
-I quote part of the detailed opinion of the dissertation defense jury in my thesis report.
+- [[https://jwa.ng/thesis/][Thesis]] work recognized for contributions to the practical security of white-box cryptography.
+
+- Received the the Chinese government award for outstanding self-financed students abroad in 2020, and was nomiated for the FNR award for Outstanding PhD Thesis in 2020.
+
+
+# My thesis subject is white-box cryptography, which is a particularly challenging research topic, and which has important applications for the industry of secure software.
+# I quote part of the detailed opinion of the dissertation defense jury in my thesis report.
 
 #+begin_quote
 The contributions of Junwei Wang are of both theoretical and practical nature, with on the one hand, the analysis and improvement of white-box attack techniques and countermeasures, and on the other hand, the realization of concrete attacks, notably leading to the break of the winning challenges from the international WhibOx competitions.
@@ -105,7 +117,7 @@ The presented work achieves a significant and important step towards the underst
 ------ Thesis report
 #+end_quote
 
-More information on my thesis can be found in [[https://jwa.ng/thesis/][jwa.ng/thesis]].
+# More information on my thesis can be found in [[https://jwa.ng/thesis/][jwa.ng/thesis]].
 
 *** Master in Computer Science, University of Luxembourg / Shandong University
 /September 2012 - June 2015/
