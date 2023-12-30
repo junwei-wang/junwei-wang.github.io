@@ -1,32 +1,9 @@
 #+TITLE: Junwei Wang - Resume
 
-# * Resume
-
-# ** Profile
-
-# I am a Ph.D. in *cryptography*.
-# My Ph.D. thesis is about *white-box cryptography*.
-# White-box cryptography is a key means to ensure the security of software cryptographic implementations in untrusted computing environments.
-# It is widely used in *DRM* and *mobile payments*.
-
-# I have 8 years of experience in software development.
-# I have written code for *cryptography and security*, *big-data processing*, *system administration*, *back-end services*, and *web applications*.
-# I have a good understanding of software architecture and the way to write clean code.
-# I have balanced ability to do scientific research and do engineering.
-
-# I have several peer-viewed major publications on white-box cryptography and cryptographic implementations.
-
-# My work and research interests are white-box cryptography and privacy-preserving cryptography.
-# In particular, I design and/or break white-box implementations for cryptographic primitives deployed in untrusted computation environment;
-# And I apply cutting-edge research results in cryptography to enhance the user's privacy and to protect customer's intellectual property.
-
-# I was on the program committee of [[https://ches.iacr.org/2022][CHES 2022]], [[https://ches.iacr.org/2022/artifacts.php][CHES 2022 artifact review]], and [[https://ches.iacr.org/2021/artifacts.php][CHES 2021 artifact review]].
-# I co-organized two editions of white-box competitions: [[https://whibox.io/contests/2021/][WhibOx Contest 2021]] and [[https://whibox.io/contests/2019/][WhibOx Contest 2019]].
-# I was an [[https://www.ecrypt.eu.org/net/][ECRYPT-NET]] fellow.
-
 ** Objective
 
-Experienced Ph.D. in cryptography with a strong software development background, seeking opportunities to apply cryptographic engineering and/or white-box cryptography expertise in innovative projects that enhance software security.
+- Experienced Ph.D. in cryptography with a strong software development background, seeking opportunities to apply cryptographic engineering and/or white-box cryptography expertise in innovative projects that enhance software security.
+- Senior software developer with a decade of expertise in designing, implementing, and maintaining complex software systems. Adept at leading cross-functional teams and collaborating with stakeholders to deliver high-quality solutions. Seeking a challenging role where I can apply my technical proficiency, leadership skills, and passion for innovation to drive the success of cutting-edge software projects. Committed to delivering scalable and robust software solutions that meet the evolving needs of clients and end-users.
 
 ** Skills
 
@@ -59,7 +36,7 @@ I mainly worked on white-box cryptography and privacy-preserving cryptography.
 
 *Tools*: AWS, Docker, Python, C, SageMath, Mathematica
 
-*** Software Engineer, [[https://baidu.com][Baidu]], Beijing
+*** Senior Software Engineer, [[https://baidu.com][Baidu]], Beijing
 /July 2015 - April 2017/
 
 - Focused on automating the process of generating knowledge graphs data for the Baidu search engine.
@@ -70,11 +47,11 @@ I mainly worked on white-box cryptography and privacy-preserving cryptography.
 
 *Tools*: Linux, Docker, Java, Python, PHP, Hadoop, HBase, Apache Airflow, OpenRefine
 
-# *** Research Intern, [[https://www.riscure.com/][Riscure]], Delft
-# /April 2018 - July 2018/
+*** Research Intern, [[https://www.riscure.com/][Riscure]], Delft
+/April 2018 - July 2018/
 
-# Investigated in-depth when and why *differential computation analysis* (DCA) is able to break internally-encoded white-box implementations.
-# Partial work published in top-tier cryptography conference [[https://tches.iacr.org/index.php/TCHES/issue/view/91][TCHES 2019]].
+Investigated in-depth when and why *differential computation analysis* (DCA) is able to break internally-encoded white-box implementations.
+Partial work published in top-tier cryptography conference [[https://tches.iacr.org/index.php/TCHES/issue/view/91][TCHES 2019]].
 
 # *Tools*: Probability, Boolean functions theory, algebra.
 
@@ -88,13 +65,12 @@ I mainly worked on white-box cryptography and privacy-preserving cryptography.
 
 # *Tools*: Linux, Python stack, ELK stack, MySQL, Apache Cassandra
 
-# *** Operations Engineer Inter, [[https://baidu.com][Baidu]], Beijing
-# /August 2011 - January 2012/
+*** Operations Engineer Inter, [[https://baidu.com][Baidu]], Beijing
+/August 2011 - January 2012/
 
-# Using the telemetry data collected by the browser and third-party clients, developed a user-friendly monitoring and early warning system for Baidu's various online services.
-# Mainly focused on obtaining interesting data from scratch, then processing, storing, and displaying them with charts.
+Leveraged browser and third-party client telemetry data to create an intuitive monitoring and early warning system for diverse online services at Baidu. Primarily concentrated on acquiring insightful data from inception, followed by adept processing, storage, and visualization through dynamic charts.
 
-# *Tools*: Linux, Python, Shell, PHP, MySQL
+*Tools*: Linux, Python, Shell, PHP, MySQL
 
 ** Education
 
@@ -147,11 +123,11 @@ The presented work achieves a significant and important step towards the underst
 
 # ** Languages
 
-# - *English* # (work proficiency)
-# - *Chinese* # (mother tongue)
-# - *French* (B1)
+- *English* # (work proficiency)
+- *Chinese* # (mother tongue)
+- *French* (B1)
 
 ** Contact
 
-- *Email*: [[mailto:me@jwa.ng][me@jwa.ng]] / [[mailto:jwang@mailbox.org][jwang@mailbox.org]]
+- *Email*: [[mailto:i.junwei.wang@gmail.com][i.junwei.wang@gmail.com]] / [[mailto:me@jwa.ng][me@jwa.ng]]
 - *Phone*: +33 (0) 7 69 39 52 85
