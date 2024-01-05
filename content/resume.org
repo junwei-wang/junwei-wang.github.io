@@ -3,7 +3,7 @@
 ** Objective
 
 - Experienced Ph.D. in cryptography with a strong software development background, seeking opportunities to apply cryptographic engineering and/or white-box cryptography expertise in innovative projects that enhance software security.
-- Senior software developer with a decade of expertise in designing, implementing, and maintaining complex software systems. Adept at leading cross-functional teams and collaborating with stakeholders to deliver high-quality solutions. Seeking a challenging role where I can apply my technical proficiency, leadership skills, and passion for innovation to drive the success of cutting-edge software projects. Committed to delivering scalable and robust software solutions that meet the evolving needs of clients and end-users.
+# - Senior software developer with a decade of expertise in designing, implementing, and maintaining complex software systems. Adept at leading cross-functional teams and collaborating with stakeholders to deliver high-quality solutions. Seeking a challenging role where I can apply my technical proficiency, leadership skills, and passion for innovation to drive the success of cutting-edge software projects. Committed to delivering scalable and robust software solutions that meet the evolving needs of clients and end-users.
 
 ** Skills
 
