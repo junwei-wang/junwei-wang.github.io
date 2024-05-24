@@ -2,9 +2,11 @@
 
 ** Objective
 
-- Experienced Ph.D. in cryptography with a strong software development background, seeking opportunities to apply cryptographic engineering and/or white-box cryptography expertise in innovative projects that enhance software security.
-- Senior software developer with more than a decade of expertise in designing, implementing, and maintaining complex software systems.
-  Seeking a challenging role where I can apply my technical proficiency, leadership skills, and passion for innovation to drive the success of cutting-edge software projects. Committed to delivering scalable and robust software solutions that meet the evolving needs of clients and end-users.
+
+Experienced Ph.D. in cryptography with a strong software development background, seeking opportunities to apply cryptographic engineering and/or white-box cryptography skills in innovative projects that enhance privacy and security.
+
+# - Senior software developer with more than a decade of expertise in designing, implementing, and maintaining complex software systems.
+#   Seeking a challenging role where I can apply my technical proficiency, leadership skills, and passion for innovation to drive the success of cutting-edge software projects. Committed to delivering scalable and robust software solutions that meet the evolving needs of clients and end-users.
 
 ** Skills
 
@@ -19,8 +21,10 @@
 /November 2021 - Present/
 
 - Leading the design and implementation of the next generation of white-box cryptography in Apple. 
-- Conducting security assesement of white-box implementations used at Apple.
-- Maintaining infrastructure and tools using python, shell, and buildbot, etc.
+- Conducting security assessment of white-box implementations used at Apple.
+- Maintaining infrastructure
+
+*Tools*: Python, C/C++, SageMath, Buildbot
 
 *** Cryptography Expert, [[https://cryptoexperts.com][CryptoExperts]], Paris
 /April 2017 - November 2021/
@@ -32,7 +36,7 @@ I mainly worked on white-box cryptography and privacy-preserving cryptography.
 - Designed and implemented a generic framework to prototype for evolving white-box designs.
 - Developed a white-box analytical tools.
 - Designed and developed a web services to automate the generation and delivery of white-box implementations.
-- Prototyped privacy-preserving cryptography for customes.
+- Prototyped privacy-preserving cryptography for customers.
 - Administered the intranet and cloud services.
 
 *Tools*: AWS, Docker, Python, C, SageMath, Mathematica
@@ -81,7 +85,7 @@ Leveraged browser and third-party client telemetry data to create an intuitive m
 
 - [[https://jwa.ng/thesis/][Thesis]] work recognized for contributions to the practical security of white-box cryptography.
 
-- Received the the Chinese government award for outstanding self-financed students abroad in 2020, and was nomiated for the FNR award for Outstanding PhD Thesis in 2020.
+- Received the Chinese government award for outstanding self-financed students abroad in 2020, and was nominated for the FNR award for Outstanding PhD Thesis in 2020.
 
 
 # My thesis subject is white-box cryptography, which is a particularly challenging research topic, and which has important applications for the industry of secure software.
@@ -122,11 +126,11 @@ The presented work achieves a significant and important step towards the underst
 
 [5] **J.Wang**, P.K.Vadnala, J.Großschädl, Q.Xu: /Higher-Order Masking in Practice: A Vector Implementation of Masked AES for ARM NEON./ CT-RSA 2015: 181-198
 
+[6] Undisclosed patent on white-box cryptography
+
 ** Languages
 
-- *English* # (work proficiency)
-- *Chinese* # (mother tongue)
-- *French* (B1)
+*English* (work proficiency) / *Chinese* (native) /  *French* (B1)
 
 ** Contact
 
